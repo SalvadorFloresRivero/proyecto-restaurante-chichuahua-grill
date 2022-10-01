@@ -30,9 +30,9 @@ const TablaReservaciones = () => {
         <tbody>
             {reservaciones.map((reservacion,index) => (
                 <tr key={(index)}>
-                    <td>{reservaciones.nombre}</td>
-                    <td>{reservaciones.personas}</td>
-                    <td>{reservaciones.nombre}</td>
+                    <td>{reservacion.nombre}</td>
+                    <td>{reservacion.personas}</td>
+                    <td>{reservacion.nombre}</td>
                 </tr>
             ))}
         </tbody>
