@@ -32,7 +32,8 @@ const TablaReservaciones = () => {
                 <tr key={(index)}>
                     <td>{reservacion.nombre}</td>
                     <td>{reservacion.personas}</td>
-                    <td>{reservacion.nombre}</td>
+                    <td>{reservacion.email}</td>
+                    <td>{reservacion.telefono}</td>
                 </tr>
             ))}
         </tbody>

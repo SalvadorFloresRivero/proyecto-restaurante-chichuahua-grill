@@ -1,14 +1,16 @@
-import Formulario from "./Components/Formulario";
-import TablaReservaciones from "./Components/TablaReservaciones";
+import React from 'react'
+import './css/style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
+import AppRouter from './Routes/AppRouter';
 
-function App() {
+const App = () => {
   return (
     <>
-    <Formulario/>
-    <TablaReservaciones/>
+    <AppRouter/>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
