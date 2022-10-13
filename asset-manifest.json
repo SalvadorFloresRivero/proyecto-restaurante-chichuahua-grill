@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto-restaurante-chichuahua-grill/static/css/main.b070b199.css",
+    "main.js": "/proyecto-restaurante-chichuahua-grill/static/js/main.81fb18ff.js",
+    "index.html": "/proyecto-restaurante-chichuahua-grill/index.html",
+    "main.b070b199.css.map": "/proyecto-restaurante-chichuahua-grill/static/css/main.b070b199.css.map",
+    "main.81fb18ff.js.map": "/proyecto-restaurante-chichuahua-grill/static/js/main.81fb18ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b070b199.css",
+    "static/js/main.81fb18ff.js"
+  ]
+}
